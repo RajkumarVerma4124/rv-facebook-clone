@@ -45,6 +45,7 @@ function Post({ name, message, email, postImage, image, timestamp }) {
                 <div className='inputIcon  rounded-br-xl'>
                     <ShareIcon className='h-4' />
                     <p className='text-xs sm:text-base'>Share</p>
+                    <p className='text-xs sm:text-base'>Share</p>
                 </div>
             </div>
         </div>
